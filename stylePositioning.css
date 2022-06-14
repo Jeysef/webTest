@@ -1,0 +1,47 @@
+.m-l-2 {
+    margin-left: 2rem
+}
+
+.m-r-2 {
+    margin-right: 2rem
+}
+
+.m-t-8 {
+    margin-top: 8rem
+}
+
+.absolute {
+    position: absolute;
+}
+.relative {
+    position: relative;
+}
+
+.width-full {
+    width: 100%;
+}
+.width-fit {
+    width: fit-content;
+}
+
+.m-no {
+    margin: 0;
+}
+
+.l-0 {
+    left: 0;
+}
+
+.width-max {
+    width: max-content;
+}
+
+.m-b-4 {
+    margin-bottom: 4rem;
+}
+.height-full {
+    height: 100%;
+}
+.r-gap {
+    row-gap: 10rem;
+}
